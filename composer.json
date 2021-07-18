@@ -1,0 +1,12 @@
+{
+    "require": {
+        "vlucas/phpdotenv": "^2.4",
+        "spomky-labs/jose": "^7.1",
+        "guzzlehttp/psr7": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    }
+}
